@@ -136,9 +136,10 @@ function Contacts() {
     if (name && email && message) {
       if (isEmail(email)) {
         const templateParams = {
-          name,
-          email,
-          message,
+          from_name: name,
+          to_name: "Satya",
+          message: message,
+          reply_to: email,
         };
 
         emailjs
