@@ -1,9 +1,9 @@
-import resume from '../assets/pdf/resume.pdf'
+import resume from '../assets/pdf/Satyabrata_Mohapatra_ASE_.pdf'
 
 export const headerData = {
-    name: 'Jane Doe',
+    name: 'Satyabrata Mohapatra',
     title: "Web Developer",
-    desciption:"There wasn't a bird in the sky, but that was not what caught her attention. It was the clouds. The deep green that isn't the color of clouds, but came with these. She knew what was coming and she hoped she was prepared. ",
+    desciption:"Passionate Frontend Developer specializing in creating intuitive and dynamic user experiences. Leveraging modern React technologies to build responsive and efficient web applications."
     image: 'https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/landingImg.png',
     resumePdf: resume
 }
