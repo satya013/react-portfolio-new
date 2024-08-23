@@ -1,4 +1,4 @@
-import resume from "../assets/pdf/Satyabrata_Mohapatra_ASE_.pdf";
+import resume from "../assets/pdf/resume.pdf";
 
 export const headerData = {
   name: "Satyabrata Mohapatra",
