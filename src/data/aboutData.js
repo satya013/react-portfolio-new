@@ -1,7 +1,7 @@
 export const aboutData = {
   title: "Who I am",
   description1:
-    "My name's Satyabrata. I'm a web developer based in Bhubaneswar,Odisha.",
+    "My name's Satyabrata. I'm a web developer based in Rayagada,Odisha.",
   description2:
     "Currently, I work as an Associate Software Engineer at Solytics Partners.",
   description3:

@@ -1,4 +1,4 @@
-import resume from "../assets/pdf/resume.pdf";
+import resume from "../assets/pdf/Satyabrata_Mohapatra_Resume.pdf";
 import image from "../assets/png/myself.jpeg";
 
 export const headerData = {
