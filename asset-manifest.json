@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-portfolio-new/static/css/main.4c6570c6.chunk.css",
-    "main.js": "/react-portfolio-new/static/js/main.973a6c13.chunk.js",
-    "main.js.map": "/react-portfolio-new/static/js/main.973a6c13.chunk.js.map",
+    "main.js": "/react-portfolio-new/static/js/main.cc5426e2.chunk.js",
+    "main.js.map": "/react-portfolio-new/static/js/main.cc5426e2.chunk.js.map",
     "runtime-main.js": "/react-portfolio-new/static/js/runtime-main.f70cf5c7.js",
     "runtime-main.js.map": "/react-portfolio-new/static/js/runtime-main.f70cf5c7.js.map",
     "static/css/2.f096efe1.chunk.css": "/react-portfolio-new/static/css/2.f096efe1.chunk.css",
@@ -15,6 +15,7 @@
     "static/css/main.4c6570c6.chunk.css.map": "/react-portfolio-new/static/css/main.4c6570c6.chunk.css.map",
     "static/js/2.8ed9d5f9.chunk.js.LICENSE.txt": "/react-portfolio-new/static/js/2.8ed9d5f9.chunk.js.LICENSE.txt",
     "static/media/index.css": "/react-portfolio-new/static/media/BestermindRegular.e58a1922.ttf",
+    "static/media/Satyabrata_Mohapatra_ASE_.6ce9a0fa.pdf": "/react-portfolio-new/static/media/Satyabrata_Mohapatra_ASE_.6ce9a0fa.pdf",
     "static/media/adobe-xd.a6dca99d.svg": "/react-portfolio-new/static/media/adobe-xd.a6dca99d.svg",
     "static/media/adobeaudition.afa937d5.svg": "/react-portfolio-new/static/media/adobeaudition.afa937d5.svg",
     "static/media/after-effects.3c076652.svg": "/react-portfolio-new/static/media/after-effects.3c076652.svg",
@@ -126,7 +127,6 @@
     "static/media/react.2b6a0717.svg": "/react-portfolio-new/static/media/react.2b6a0717.svg",
     "static/media/redTheme-boy.846d9d39.svg": "/react-portfolio-new/static/media/redTheme-boy.846d9d39.svg",
     "static/media/redTheme-girl.1ebbd52c.svg": "/react-portfolio-new/static/media/redTheme-girl.1ebbd52c.svg",
-    "static/media/resume.bc382d73.pdf": "/react-portfolio-new/static/media/resume.bc382d73.pdf",
     "static/media/ruby.34e792ab.svg": "/react-portfolio-new/static/media/ruby.34e792ab.svg",
     "static/media/selenium.7dcf1c14.svg": "/react-portfolio-new/static/media/selenium.7dcf1c14.svg",
     "static/media/seven.3168c0a5.svg": "/react-portfolio-new/static/media/seven.3168c0a5.svg",
@@ -156,6 +156,6 @@
     "static/css/2.f096efe1.chunk.css",
     "static/js/2.8ed9d5f9.chunk.js",
     "static/css/main.4c6570c6.chunk.css",
-    "static/js/main.973a6c13.chunk.js"
+    "static/js/main.cc5426e2.chunk.js"
   ]
 }
