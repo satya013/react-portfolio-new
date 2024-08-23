@@ -1,34 +1,40 @@
+import mysql from "../assets/png/mysql.jpg";
+import ccna from "../assets/png/download.png";
+import chegg from "../assets/png/chegg.png";
 export const achievementData = {
-    bio : "Putting quantified achievements on a resume is great, but I just don’t work with hard numbers. I have no data to support the quality of my work. If you have lots of relevant experience, the heading statement of your resume will be a summary.",
-    achievements : [
-        {
-            id : 1,
-            title : 'Google Cloud certification',
-            details : 'Google Cloud certifications validate your expertise and showcase your ability to transform businesses with Google Cloud technology.',
-            date : 'Aug 20, 2019',
-            field : 'Automation',
-            image : 'https://images.unsplash.com/photo-1573141597928-403fcee0e056?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80'
-        },
-        {
-            id : 2,
-            title : 'AWS Certification',
-            details : 'Validate technical skills and cloud expertise to grow your career and business.',
-            date : 'Aug 20, 2019',
-            field : 'Automation',
-            image : 'https://images.unsplash.com/photo-1523474253046-8cd2748b5fd2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80'
-        },
-        {
-            id : 3,
-            title : 'Professional Data Engineer Certification',
-            details : 'Professional Data Engineers enable data-driven decision making by collecting, transforming, and publishing data.',
-            date : 'Aug 20, 2019',
-            field : 'Automation',
-            image : 'https://images.unsplash.com/photo-1489389944381-3471b5b30f04?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80'
-        }
-
-    ]
-}
-
+  bio: "Putting quantified achievements on a resume is great, but I just don’t work with hard numbers. I have no data to support the quality of my work. If you have lots of relevant experience, the heading statement of your resume will be a summary.",
+  achievements: [
+    {
+      id: 1,
+      title: "MySql cerification",
+      details: "Completed course and challenges in MySql Bootcamp course",
+      date: "April 16, 2022",
+      field: "Database",
+      image: mysql,
+      url: "https://drive.google.com/file/d/12iYj8FEJWmytSSmOKIAhK2kMQ9KK51Pn/view?usp=drivesdk",
+    },
+    {
+      id: 2,
+      title: "CISCO networking Certification",
+      details:
+        "Completed networking cerification for Introduction to Networks ",
+      date: "Jul 04, 2022",
+      field: "Networking",
+      image: ccna,
+      url: "https://drive.google.com/file/d/18ZbyOcQKLSgOc8PmiJVGow42FXPefdBP/view",
+    },
+    {
+      id: 3,
+      title: "Subject Matter Expert",
+      details:
+        "Solved above tons of question in computer science subjects and helped student in their assignment .",
+      date: "Sept 20, 2021",
+      field: "Freelancer",
+      image: chegg,
+      url: "https://drive.google.com/file/d/1n_jehGExkzmP782mv4tSPH0-Bk6Gqxn4/view?usp=sharing",
+    },
+  ],
+};
 
 // Do not remove any fields.
 // Leave it blank instead as shown below.
